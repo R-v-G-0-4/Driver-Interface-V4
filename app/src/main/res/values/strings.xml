@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Driver Interface</string>
+    <string name="greeting">Hello, </string>
+    <string name="driver_name">Alex Carter</string>
+    <string name="driver_id">Driver ID: D-73829</string>
+    <string name="status_online">Online</string>
+
+    <string name="banner_title">Ready to deliver!</string>
+    <string name="banner_subtitle">Complete your deliveries and have a great day.</string>
+
+    <string name="section_title_deliveries">My Deliveries</string>
+    <string name="deliveries_count">4 deliveries</string>
+
+    <string name="delivery_1_title">Delivery 1</string>
+    <string name="delivery_1_address">123 Main St, Riverton</string>
+    <string name="delivery_1_order">Order #58472</string>
+    <string name="delivery_1_time">10:15 AM</string>
+    <string name="status_pickup">Pick Up</string>
+
+    <string name="delivery_2_title">Delivery 2</string>
+    <string name="delivery_2_address">456 Oak Ave, Riverton</string>
+    <string name="delivery_2_order">Order #58473</string>
+    <string name="delivery_2_time">10:45 AM</string>
+    <string name="status_deliver">Deliver</string>
+
+    <string name="delivery_3_title">Delivery 3</string>
+    <string name="delivery_3_address">789 Pine Rd, Riverton</string>
+    <string name="delivery_3_order">Order #58474</string>
+    <string name="delivery_3_time">11:20 AM</string>
+
+    <string name="delivery_4_title">Delivery 4</string>
+    <string name="delivery_4_address">321 Maple St, Riverton</string>
+    <string name="delivery_4_order">Order #58475</string>
+    <string name="delivery_4_time">12:00 PM</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="label_name">Full Name</string>
+    <string name="label_age">Age</string>
+    <string name="value_age">28</string>
+    <string name="label_driver_id">Driver ID</string>
+    <string name="value_driver_id">D-73829</string>
+    <string name="label_vehicle_reg">Vehicle Registration</string>
+    <string name="value_vehicle_reg">AB12 CDE</string>
+
+    <string name="delivery_details_title">Delivery Details</string>
+    <string name="label_pickup_address">Pickup address</string>
+    <string name="value_pickup_address">123 Main St, Riverton, RV1 2AB</string>
+    <string name="label_pickup_time">Pickup time</string>
+    <string name="value_pickup_time">10:15 AM</string>
+    <string name="label_delivery_address">Delivery address</string>
+    <string name="value_delivery_address">45 Cedar Ave, Riverton, RV1 3CD</string>
+    <string name="label_deliver_by">Deliver by</string>
+    <string name="value_deliver_by">10:45 AM</string>
+    <string name="label_order_details">Order details</string>
+    <string name="label_order_number">Order number</string>
+    <string name="value_order_number">#58472</string>
+    <string name="label_number_of_items">Number of items</string>
+    <string name="value_number_of_items">3 items</string>
+    <string name="btn_accept_delivery">Accept Delivery</string>
+</resources>
